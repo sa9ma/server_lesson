@@ -1,0 +1,13 @@
+    1  cd linux_practice2
+    2  cd  /linux_practice2
+    3  cd /linux_practice2
+    4  ls
+    5  pwd
+    6  cd/root
+    7  cd /root
+    8  cd /server_lesson
+    9  cd server_lesson/
+   10  cd linux_practice2/
+   11  vi .gitignore
+   12  vi .gitignore
+   13  history 300 > exec_command.log
